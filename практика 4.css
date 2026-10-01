@@ -188,7 +188,7 @@ width: 95%;
 
   height: 40px;
 
-  width: 500px;
+  width: 200px;
 
   position: absolute;
 
@@ -222,7 +222,7 @@ width: 95%;
 
 .loader {
 
-  width: 500px !important;
+  width: 200px !important;
 
 }
 
